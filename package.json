@@ -1,0 +1,27 @@
+{
+  "name": "peroeresonoeres",
+  "version": "1.0.0",
+  "description": "peroeresonoeres",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierrh2812/peroeresonoeres.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierrh2812/peroeresonoeres/issues"
+  },
+  "homepage": "https://github.com/javierrh2812/peroeresonoeres#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telebot": "^1.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
